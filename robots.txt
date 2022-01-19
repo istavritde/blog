@@ -1,1 +1,1 @@
-Sitemap: https://istavritde.github.io/blog/sitemap.xml
+Sitemap: https://istavrit.de/sitemap.xml
